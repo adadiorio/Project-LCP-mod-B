@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+mpmath
+imageio
+torch
+transformers
+scikit-learn
+dadapy
