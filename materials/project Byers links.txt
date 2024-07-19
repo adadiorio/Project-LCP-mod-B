@@ -1,0 +1,28 @@
+Attention is all you need													s
+Hugging face - support for ML community (Google team, sandbox)									o
+
+Serrano Academy Series that provides a basic introduction ...good starting point:
+1. Elementary Introduction to Attention Mechanism:      https://www.youtube.com/watch?v=OxCpWwDCDFQ				v
+2. Mathematical Intro to Attention:      https://www.youtube.com/watch?v=UPtG_38Oq8o&t=1812s					v
+3. Elementary Introduction to Transformers:      https://www.youtube.com/watch?v=qaWMOYf4ri8					v
+
+Nice detailed description of computing attention in a Transformer: 
+https://jalammar.github.io/illustrated-transformer/										s
+
+More Technical YouTube Transformer tutorial:    
+https://www.youtube.com/watch?v=bCz4OMemCcA											p
+
+https://www.youtube.com/watch?v=ISNdQcPhsts (code from scratch)									o
+https://www.youtube.com/watch?v=toUSzwR0EV8 (distributed training with pytorch)							o
+https://www.youtube.com/watch?v=8Q_tqwpTpVU (Mamba)										o
+
+Understanding Transformers: 
+See Chapter 12. p.373-422 of Chris Bishop's recent textbook,   
+https://www.bishopbook.com/													s
+
+Papers discussed in meeting:
+Google adapts Transformers for a Time-Series Foundation Model = https://arxiv.org/pdf/2310.10688v2.pdf				s
+CMU's MAMBA architecture for using State Space Model instead of Transformers = https://arxiv.org/pdf/2312.00752.pdf		s
+
+YouTube video talking about MAMBA with a nice comparison to Transformers, Recurrent Neural Networks & LSTM's
+https://www.youtube.com/watch?v=9dSkvxS2EB0											o
