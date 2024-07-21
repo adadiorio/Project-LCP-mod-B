@@ -42,5 +42,5 @@ To run the analysis, execute:
 
 - **[Ginevra Beltrame](https://github.com/ginevrabeltrame)**
 - **[Emanuele Coradin](https://github.com/EmanueleCoradin)**
-- **[Ada Diorio](https://github.com/adadiorio)**
+- **[Ada D'Iorio](https://github.com/adadiorio)**
 - **[Dario Liotta](https://github.com/darioliotta)**
